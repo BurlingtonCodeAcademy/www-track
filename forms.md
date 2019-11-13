@@ -22,11 +22,11 @@ a `<form>` is an HTTP element that contains input elements
 
 <!--BOX-->
 <form method='post'>
-  Name: <input type='text' name='name' value='Alice'>
+  Name: <input type='text' name='name' value='Alice' />
   <br />
-  Password: <input type='password' name='password'>
+  Password: <input type='password' name='password' />
   <br />
-  <input type='submit'>
+  <input type='submit' />
 </form>
 <!--/BOX-->
 
