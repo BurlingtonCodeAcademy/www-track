@@ -13,9 +13,9 @@ a `<form>` is an HTTP element that contains input elements
 ```html
 <form method='post'>
   Name: <input type='text' name='name' value='Alice'>
-  <br>
+  <br />
   Password: <input type='password' name='password'>
-  <br>
+  <br />
   <input type='submit'>
 </form>
 ```
@@ -23,9 +23,9 @@ a `<form>` is an HTTP element that contains input elements
 <!--BOX-->
 <form method='post'>
   Name: <input type='text' name='name' value='Alice'>
-  <br>
+  <br />
   Password: <input type='password' name='password'>
-  <br>
+  <br />
   <input type='submit'>
 </form>
 <!--/BOX-->
