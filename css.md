@@ -94,7 +94,7 @@ What is the CSS doing here?
 
 # CodePen
 
-<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="html,result" data-user="habenzy" data-slug-hash="MWWVEeO" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="MWWVEeO">
+<p class="codepen" data-height="265" data-theme-id="default" data-default-tab="html,result" data-user="habenzy" data-slug-hash="MWWVEeO" style={{height: '265px', box-sizing: 'border-box', display: 'flex', alignItems: 'center', justifyContent: 'center', border: '2px solid', margin: '1em 0', padding: '1em',}} data-pen-title="MWWVEeO">
   <span>See the Pen <a href="https://codepen.io/habenzy/pen/MWWVEeO">
   MWWVEeO</a> by Robert Stauss (<a href="https://codepen.io/habenzy">@habenzy</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
