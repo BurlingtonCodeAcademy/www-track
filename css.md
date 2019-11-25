@@ -99,6 +99,8 @@ What is the CSS doing here?
   (<a href='https://codepen.io/habenzy'>@habenzy</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
 
+To embed codepens in our markdown you need to embed them as iframes, modify the style tag so that it's in React format (`style="width: 100%"` => `style={{width: "100%"}}`), make the `frameborder` property camelCase (`frameBorder`), as well as the `allowfullscreen` property, which also needs it's value to be a boolean (`allowfullscreen="true"` => `allowFullScreen={true}`)
+
 # Compound Selectors 1
 
 Selectors can target elements nested within other elements
