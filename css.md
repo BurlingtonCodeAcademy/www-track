@@ -94,7 +94,7 @@ What is the CSS doing here?
 
 # CodePen
 
-<iframe height="265" style={{width: '100%'}} scrolling="no" title="MWWVEeO" src="https://codepen.io/habenzy/embed/MWWVEeO?height=265&theme-id=default&default-tab=html,result" frameborder="no" allowtransparency="true" allowFullScreen={true}>
+<iframe height="265" style={{width: '100%'}} scrolling="no" title="MWWVEeO" src="https://codepen.io/habenzy/embed/MWWVEeO?height=265&theme-id=default&default-tab=html,result" frameBorder="no" allowTransparency={true} allowFullScreen={true}>
   See the Pen <a href='https://codepen.io/habenzy/pen/MWWVEeO'>MWWVEeO</a> by Robert Stauss
   (<a href='https://codepen.io/habenzy'>@habenzy</a>) on <a href='https://codepen.io'>CodePen</a>.
 </iframe>
