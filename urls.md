@@ -6,7 +6,7 @@
 
 # URL Diagram
 
-![complex url](/images/complex_url.png)
+![complex url](https://res.cloudinary.com/btvca/image/upload/v1574445171/curriculum/complex_url_yb9fbh.png)
 
 (via [DoePud](https://doepud.co.uk/blog/anatomy-of-a-url))
 

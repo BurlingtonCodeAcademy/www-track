@@ -15,7 +15,7 @@ Let's lift the hood and check out the engine that makes the World Wide Web run.
 * This file contains code, which tells your browser how, and what, to render. 
 * A web server responds to this request, by telling the browser where the file lives. 
 
-![HTTP Request](/images/http_request.png "HTTP Request") (via <https://betterexplained.com/>)
+![HTTP Request](https://res.cloudinary.com/btvca/image/upload/v1574445183/curriculum/http_request_vyppiy.png "HTTP Request") (via <https://betterexplained.com/>)
 
 # HTTP Methods
 
@@ -136,5 +136,5 @@ If you have a working `telnet`, try this yourself. Also try `telnet towel.blinke
 
 # Curl Screenshot
 
-![curl screenshot](/images/http-curl-example.png)
+![curl screenshot](https://res.cloudinary.com/btvca/image/upload/v1574445185/curriculum/http-curl-example_wc2siw.png)
 

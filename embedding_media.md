@@ -86,7 +86,7 @@ This is often used for login boxes.
 
 # Embedding Flash
 
-![R I P Flash](/images/rip-flash.png)
+![R I P Flash](https://res.cloudinary.com/btvca/image/upload/v1574445198/curriculum/rip-flash_gzmwcj.png)
 
 "In July 2017, Adobe announced that it would declare Flash to be [end-of-life](https://en.wikipedia.org/wiki/Adobe_Flash#End_of_life) in 2020, and will cease support, distribution, and security updates to Flash Player."
 

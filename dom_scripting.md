@@ -241,4 +241,4 @@ abraButton.addEventListener('click', sayMagicWord)
 
 # Event Diagram
 
-![event flow diagram](/images/eventflow.svg)
+![event flow diagram](https://res.cloudinary.com/btvca/image/upload/v1574445173/curriculum/eventflow_nyx1zw.svg)

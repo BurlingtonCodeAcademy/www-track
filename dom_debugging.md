@@ -32,7 +32,7 @@ Chrome can be one of the most useful tools for debugging HTML and CSS.
 
 # Chrome Inspector
 
-![Image of the chrome web inspection tool](/images/dom-debugging.png)
+![Image of the chrome web inspection tool](https://res.cloudinary.com/btvca/image/upload/v1574445175/curriculum/dom-debugging_a3ij2j.png)
 
 # Grab a Second Set of Eyes
 
