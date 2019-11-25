@@ -101,6 +101,16 @@ What is the CSS doing here?
 
 To embed codepens in our markdown you need to embed them as iframes, modify the style tag so that it's in React format (`style="width: 100%"` => `style={{width: "100%"}}`), make the `frameborder` property camelCase (`frameBorder`), as well as the `allowfullscreen` property, which also needs it's value to be a boolean (`allowfullscreen="true"` => `allowFullScreen={true}`)
 
+# CodeSandbox
+
+<iframe
+     src="https://codesandbox.io/embed/hello-world-b2j7u?fontsize=14&hidenavigation=1&theme=dark"
+     style={{width:"100%", height:"500px", border:0, borderRadius: "4px", overflow:"hidden"}}
+     title="hello-world"
+     allow="geolocation; microphone; camera; midi; vr; accelerometer; gyroscope; payment; ambient-light-sensor; encrypted-media; usb"
+     sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"
+   ></iframe>
+
 # Compound Selectors 1
 
 Selectors can target elements nested within other elements
