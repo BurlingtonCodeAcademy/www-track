@@ -111,6 +111,9 @@ To embed codepens in our markdown you need to embed them as iframes, modify the 
      sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"
    ></iframe>
 
+Like codepen, works if you change the style prop (`style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"` => `style={{width:"100%", height:"500px", border:0, borderRadius: "4px", overflow:"hidden"}}`)
+
+
 # Compound Selectors 1
 
 Selectors can target elements nested within other elements
