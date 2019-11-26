@@ -27,12 +27,6 @@
 <a href="#about-me">About Me</a>
 ```
 
-# Anchor Links Examples
-
-[Internal Navigation Example](/lessons/responsive_layout/navigation-anchors-internal.html)
-
-[External Navigation Example](/lessons/responsive_layout/navigation-anchors-external-0.html)
-
 # More about anchors
 
 * links vs buttons -- look and feel differences
